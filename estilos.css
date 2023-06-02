@@ -1,0 +1,33 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(imagenes/fondo.jpg) repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+
+h1{
+    margin: 0;
+}
+
+
+.sec2{
+    
+    background: url(imagenes/fondo.jpg) repeat center top;
+}
+.sec2{
+    border: 1px solid #f1c4f1;
+    width: auto;
+    padding: 1em;
+
+}
+
+.sec1{
+  
+    border: 1px solid #f1c4f1;
+    padding:  1em;
+}
